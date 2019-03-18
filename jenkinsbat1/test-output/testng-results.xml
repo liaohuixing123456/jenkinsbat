@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27962" started-at="2019-03-18T01:09:17Z" finished-at="2019-03-18T01:09:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27962" started-at="2019-03-18T01:09:17Z" finished-at="2019-03-18T01:09:45Z">
+      <class name="openbaidu.openbaidu">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:openbaidu.openbaidu@31b7dea0]" name="setUp" duration-ms="27899" started-at="2019-03-18T09:09:17Z" finished-at="2019-03-18T09:09:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+      </class> <!-- openbaidu.openbaidu -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
